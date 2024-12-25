@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pyodbc
+secrets
+jwt
+datetime
+typing
